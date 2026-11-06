@@ -1,0 +1,1 @@
+var e=`/assets/panel-DxLDxLZd.jpg`;export{e as t};
